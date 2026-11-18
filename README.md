@@ -35,3 +35,10 @@ GIF pour le mail (les vidéos ne se lisent pas dans un email) :
 | Vertical, pour le mail | 720×1280 | 7,7 Mo | https://raw.githubusercontent.com/SellerScale/visuels-com/main/connecteur-claude/mail/connecteur-claude-9x16-720.gif |
 | Paysage, pleine résolution | 1920×1080 | 18,9 Mo | https://raw.githubusercontent.com/SellerScale/visuels-com/main/connecteur-claude/mail/connecteur-claude-16x9-1920.gif |
 | Vertical, pleine résolution | 1080×1920 | 17,9 Mo | https://raw.githubusercontent.com/SellerScale/visuels-com/main/connecteur-claude/mail/connecteur-claude-9x16-1080.gif |
+
+## Marché global (globe), 18/11/2026
+
+| Fichier | Taille | Poids | Lien |
+|---|---|---|---|
+| GIF (rotation lente, 7 s) | 1280×800 | 14,8 Mo | https://raw.githubusercontent.com/SellerScale/visuels-com/main/globe-marche-global/globe-sellerscale-lent.gif |
+| Vidéo MP4 (7 s) | 2880×1800 | 10,5 Mo | https://raw.githubusercontent.com/SellerScale/visuels-com/main/globe-marche-global/globe-sellerscale-lent.mp4 |
